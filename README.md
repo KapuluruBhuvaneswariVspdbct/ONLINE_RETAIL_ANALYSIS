@@ -27,7 +27,8 @@ This project explores 500,000+ online retail transactions using **Python**, focu
 ## Outcome
 ![photo-collage png (1)](https://github.com/user-attachments/assets/3d0820be-32ed-49a4-b4b9-4301392b184a)
 
-📧 bhuvaneswari2821@gmail.com  
 📽️ Project Walkthrough: [Watch Demo](https://youtu.be/1uxf7-zLmJ8)  
+
+Let's Connect
+📧 bhuvaneswari2821@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/bhuvaneswari-kapuluru-2892682bb/)  
-📁 GitHub Repo: [Online Retail Analysis](https://github.com/KapuluruBhuvaneswariVspdbct/)
