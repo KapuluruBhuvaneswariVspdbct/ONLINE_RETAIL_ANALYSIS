@@ -29,6 +29,7 @@ This project explores 500,000+ online retail transactions using **Python**, focu
 
 
 Linkedin Post:[Linkedin Post](https://www.linkedin.com/posts/bhuvaneswari-kapuluru-2892682bb_dataanalytics-python-eda-activity-7345727514855530496-Glt1?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAEy_JYkBoNioJp_jgEL0gka0f68J6L4jAWM)
+
 📽️ Project Walkthrough: [Watch Demo](https://youtu.be/1uxf7-zLmJ8)  
 
 Let's Connect
