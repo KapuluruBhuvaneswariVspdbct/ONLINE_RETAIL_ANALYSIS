@@ -1,53 +1,33 @@
+# Online Retail Analysis using Python (EDA + RFM + Churn Insights) 🛒📊
 
-# Online Retail Data Analysis
+This project explores 500,000+ online retail transactions using **Python**, focusing on customer segmentation, retention analysis, and churn insights through **EDA**, **RFM**, and visual storytelling with **Matplotlib** and **Seaborn**.
 
-This project involves analyzing an online retail dataset containing **half a million** records. The primary goal is to clean, transform, visualize, and extract meaningful insights from the dataset, including customer segmentation using RFM (Recency, Frequency, Monetary) analysis.
+## 📌 Key Goals:
+- Segment customers using RFM
+- Identify churn-prone behavior
+- Visualize sales trends and customer engagement
+- Recommend targeted retention strategies
 
-## 📌 Project Steps
-
-1. **Data Loading**  
-   - Loaded the dataset from a custom URL (hosted online).
-
-2. **Data Cleaning**  
-   - Filled missing values intelligently.
-   - Replaced missing product descriptions using matching stock IDs.
-
-3. **Feature Engineering**  
-   - Created new columns like `Month` for time-based analysis.
-   - Added a `TotalPrice` column (UnitPrice × Quantity).
-
-4. **Visualization**  
-   - Monthly sales trends.
-   - Top 5 countries by performance.
-
-5. **RFM Analysis**  
-   - Performed Recency, Frequency, and Monetary analysis to classify customer behaviors.
-
-6. **Customer Segmentation**  
-   - Segmented customers using recency-based rules.
-   - Plotted insights using graphs.
-
-## 📊 Tools & Libraries
-
-- Python
-- Google Colab
+## 🔧 Tech Stack:
+- Python (Jupyter Notebook)
 - Pandas, NumPy
 - Matplotlib, Seaborn
+- PowerPoint for insights presentation
+  
+## 🔍 Insights Generated
+1. 89% of sales come from the UK; other countries contribute marginally  
+2. Sales grow consistently and peak in the last quarter of the year  
+3. RFM analysis shows many inactive (low recency) customers  
+4. Monetary value remains relatively stable across segments  
+5. Frequency drops sharply in higher recency groups — potential churn  
+6. Customers with RFM scores at extremes (low and high) are balanced — opportunity to shift users toward higher engagement  
+7. Histogram & KDE show customers in the 100–350 recency range are likely to churn  
+8. Actionable focus should be on mid-recency users to retain and boost frequency  
 
-## 🔗 Google Colab Link
+## Outcome
+![photo-collage png (1)](https://github.com/user-attachments/assets/3d0820be-32ed-49a4-b4b9-4301392b184a)
 
-You can view the full project here: [Google Colab Notebook](YOUR_GOOGLE_COLAB_LINK_HERE)
-
-## 🚀 Getting Started
-
-To run this project locally:
-
-```bash
-git clone https://github.com/YOUR_USERNAME/online-retail-analysis.git
-cd online-retail-analysis
-# Open and run the notebook in Colab or Jupyter
-```
-
----
-
-**Author:** Bhuvaneswari Kapuluru  
+📧 bhuvaneswari2821@gmail.com  
+📽️ Project Walkthrough: [Watch Demo](https://youtu.be/1uxf7-zLmJ8)  
+🔗 [LinkedIn](https://www.linkedin.com/in/bhuvaneswari-kapuluru-2892682bb/)  
+📁 GitHub Repo: [Online Retail Analysis](https://github.com/KapuluruBhuvaneswariVspdbct/)
